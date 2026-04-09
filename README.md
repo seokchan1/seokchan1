@@ -31,8 +31,6 @@
 
 ---
 
-## 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_ID&color=blue)
 
 ---
 
