@@ -37,7 +37,7 @@
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/YOUR_ID
+- GitHub: https://github.com/seokchan1
 - Email: kangchan5508@email.com
 
 ---
