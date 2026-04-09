@@ -1,4 +1,4 @@
-# 🎮 GAME DEV | [Your Name]
+# 🎮 GAME DEV | [강석찬]
 
 
 ---
@@ -11,7 +11,7 @@
 
 ---
 
-## ⚔ Tech Stack
+
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity)
