@@ -1,5 +1,6 @@
 # 🎮 GAME DEV | [강석찬]
 
+![gameplay](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ---
 
@@ -11,7 +12,7 @@
 
 ---
 
-
+## ⚔ Tech Stack
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity)
@@ -21,7 +22,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio)
 
-
 ---
 
 ## 📫 Contact
@@ -29,4 +29,3 @@
 - Email: kangchan5508@email.com
 
 ---
-
